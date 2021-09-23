@@ -7,7 +7,8 @@
 >All request controlled from this controller.
 >More information have given above the all action as comments.
 
-<img src="images/DoctorController.png">
+
+<img src="https://github.com/NSeckinM/API_Calisma/blob/master/HB_Hafta1_Odev/images/DoctorController.png">
 
 ## Models
 #### DoctorDto
@@ -17,4 +18,4 @@
 #### SortEnum
 >Created for sorting list by the enum class parameters.
 
-<img src="images/schemas.png">
+<img src="https://github.com/NSeckinM/API_Calisma/blob/master/HB_Hafta1_Odev/images/schemas.png">
